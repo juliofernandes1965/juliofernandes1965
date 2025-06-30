@@ -80,7 +80,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
----
 
 
 > “A melhor maneira de prever o futuro é criá-lo.” — Peter Drucker
@@ -88,7 +87,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=juliofernandes1965&label=Visitantes&color=blue&style=flat" alt="visit count"/>
 </p>
----
+
 
 
 
