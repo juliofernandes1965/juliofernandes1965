@@ -88,14 +88,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=juliofernandes1965&label=Visitantes&color=blue&style=flat" alt="visit count"/>
 </p>
+---
 
-git add README.md
-git commit -m "Finaliza README com redes sociais e certificações"
-git push origin main
-
-git add README.md
-git commit -m "Corrige visualização inicial do README no GitHub"
-git push origin main
 
 
 
